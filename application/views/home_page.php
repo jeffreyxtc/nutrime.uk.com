@@ -5,7 +5,7 @@
 <html lang="en">
    <head>
       <meta charset="utf-8" />
-      <title>Nutrime - Complete Nutrition Tuition title 1</title>
+      <title>Nutrime - Complete Nutrition Tuition title</title>
       <meta name="description" content="Nutritional Therapist based in Windsor, Berkshire with a passion for nutrition and well being.">
       <meta name="author" content="">
       <meta name="format-detection" content="telephone=no">
